@@ -11,7 +11,7 @@ public class CoverageService {
 
 	public static int add(int x, int y) {
 		int c = 0;
-		if (x == 10) {
+		if (x == 100) {
 			c = x + y;
 		} else {
 			c = (x + y) * 2;
